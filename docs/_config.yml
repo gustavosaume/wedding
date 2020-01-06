@@ -36,8 +36,9 @@ exclude:
   - README.md
 
 # Pagination
-paginate: 5
+paginate: 10
 paginate_path: "/3da541559918a808c2402bba5012f6c60b27661c/page-:num"
+future: true
 
 # Sass
 sass:

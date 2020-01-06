@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Places to stay"
+description:
+date: 2020-08-02 21:00:00 +05:00
+image: /assets/imgs/pigs_beach.jpg
+image-sm: https://picsum.photos/500/300?image=1003
+---
+There are a few weekly rentals right nearby for folks who do want to make a vacation of it, but they tend book up fast. For folks staying just a night or two, there good hotel options in Brunswick and Bath, and lots of nightly Airbnb's.
+
+Weekly rentals in Phippsburg:
+* There's a [cottage](https://www.airbnb.com/rooms/41087685?source_impression_id=p3_1578258513_4W2fvHl7YygRGod4){:target="_blank"} that sleeps 2-4 owned by the same person who operates the venue; if you're interested in that let us know.
+* [House that sleeps 10](https://www.airbnb.com/rooms/33294996?source_impression_id=p3_1578263179_nXqHSPgM69BRAPxZ){:target="_blank"}
+* [House that sleeps 7](https://www.airbnb.com/rooms/6967214?source_impression_id=p3_1577456382_7N1%2Bz2YC9ImtnJnk){:target="_blank"}
+* [Studio that sleeps 2](https://www.airbnb.com/rooms/25724361?source_impression_id=p3_1577456891_Pim4XbE3eDX7WvPL){:target="_blank"}
+
+Other places to stay nearby:
+* [Sebasco Harbor Resort](https://www.sebasco.com/){:target="_blank"}
+* [The Brunswick Inn](https://www.thebrunswickinn.com/){:target="_blank"}
