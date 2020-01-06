@@ -4,18 +4,18 @@ permalink: /:year/:month/:day/:title/
 google_analytics:
 
 title: Wedding
-description:
+# description:
 url: ""
 baseurl: ""
 # twitter_username:
-default_img:
+# default_img:
 
 # Profile settings
-name:
-profile_img:
-profile:
-social:
-  github:
+# name:
+# profile_img:
+# profile:
+# social:
+#   github:
 
 # Build settings
 markdown: kramdown
@@ -28,7 +28,6 @@ compress_html:
   comments: all
   startings: [html, head, body]
 exclude:
-  - _screenshots
   - .DS_Store
   - Gemfile
   - Gemfile.lock
@@ -42,4 +41,3 @@ paginate_path: "/3da541559918a808c2402bba5012f6c60b27661c/page-:num"
 # Sass
 sass:
   style: compressed
-
