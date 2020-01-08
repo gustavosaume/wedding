@@ -3,10 +3,10 @@ email:
 permalink: /:year/:month/:day/:title/
 google_analytics:
 
-title: Wedding
+title: N&G Wedding
 # description:
 # url: ""
-# baseurl: ""
+baseurl: "/wedding"
 
 # twitter_username:
 # default_img:

@@ -3,7 +3,6 @@ layout: post
 title: "Travel"
 description:
 date: 2020-08-02 22:00:00 +05:00
-image: /assets/imgs/pigs_beach.jpg
-image-sm: https://picsum.photos/500/300?image=1003
+image: /wedding/assets/imgs/pigs_beach.jpg
 ---
 You can fly into Portland International Jetport (PWM), or take a bus or train into Brunswick. If you let us know in advance, we can probably coordinate a pickup.

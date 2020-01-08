@@ -3,8 +3,7 @@ layout: post
 title: "Things to do"
 description:
 date: 2020-08-02 20:00:00 +05:00
-image: /assets/imgs/pigs_beach.jpg
-image-sm: https://picsum.photos/500/300?image=1003
+image: /wedding/assets/imgs/pigs_beach.jpg
 ---
 There's tons of outdoor activities, shopping, and delicious food in the area - here's just a few, more coming soon:
 
