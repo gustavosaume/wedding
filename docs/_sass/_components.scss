@@ -78,6 +78,10 @@
 .preview {
   transition: background-color 0.2s ease-in-out;
 
+  &:first-child {
+    padding-top: 50px;
+  }
+
   &:nth-child(even) {
     background-color: $color-white;
   }
