@@ -37,7 +37,7 @@ exclude:
 
 # Pagination
 paginate: 10
-paginate_path: "/3da541559918a808c2402bba5012f6c60b27661c/page-:num"
+paginate_path: "/ce7e7e83d8157f034933f14b568ddf40225a9f05/page-:num"
 future: true
 
 # Sass
