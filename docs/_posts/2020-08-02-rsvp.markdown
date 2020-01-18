@@ -1,0 +1,8 @@
+---
+layout: post
+title: "RSVP"
+description:
+date: 2020-08-02 19:30:00 +05:00
+image: /assets/imgs/phibsburg.jpg
+---
+Please, [RSVP here](https://docs.google.com/forms/d/e/1FAIpQLSco7VFiO_Y6NewNLU3onANsMjK5UYwXTMqbEQGNehc2EOgoxA/viewform?usp=sf_link){:target="_blank"} at your soonest convenience.
