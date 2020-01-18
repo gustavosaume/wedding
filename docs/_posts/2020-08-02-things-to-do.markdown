@@ -3,7 +3,7 @@ layout: post
 title: "Things to do"
 description:
 date: 2020-08-02 20:00:00 +05:00
-image: /wedding/assets/imgs/phibsburg.jpg
+image: /assets/imgs/phibsburg.jpg
 ---
 There's tons of outdoor activities, shopping, and delicious food in the area - here's just a few, more coming soon:
 
@@ -11,7 +11,7 @@ There's tons of outdoor activities, shopping, and delicious food in the area - h
 * Welcome cocktails (Thursday evening)
 * Ceremoney and lobster bake (Friday afternoon)
 
-**Adventures**  
+**Adventures**
 There are some activities available through the venue - we'll be doing a farm tour at some point, let us know if you want to join/book!
 * Oyster farm tour ($50/pp, includes half dozen oysters)
 * Shucking class ($35/pp, includes a dozen oysters)
@@ -22,12 +22,10 @@ There are some activities available through the venue - we'll be doing a farm to
 * Popham beach
 * Bowdoin Coastal Studies Center, Orrs Island
 * Topsham County Fair (Aug 4-9)
-    
+
 **Museums & galleries**
 * Bowdoin College Museum of Art and Arctic Museum
 * Spindleworks Gallery, Brunswick
 * Icon Gallery, Brunswick
 * Portland Museum of Art
 * Space Gallery, Portland
-    
-
