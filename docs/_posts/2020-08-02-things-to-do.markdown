@@ -12,7 +12,7 @@ There are tons of outdoor activities, shopping, and delicious food in the area -
 * Ceremony and lobster bake (Friday afternoon)
 
 
-**Adventures**
+**Adventures**  
 We're working with the [Maine Oyster Company](https://themaineoystercompany.com/) to offer some special seaside activities at discounted rates - let us know if you want to join!
 * Oyster farm tour ($50/pp, includes half dozen oysters)
 * Shucking class ($35/pp, includes a dozen oysters)
