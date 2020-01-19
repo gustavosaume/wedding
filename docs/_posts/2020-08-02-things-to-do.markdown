@@ -5,14 +5,14 @@ description:
 date: 2020-08-02 20:00:00 +05:00
 image: /assets/imgs/island.jpg
 ---
-There's tons of outdoor activities, shopping, and delicious food in the area - here's just a few, more coming soon:
+There are tons of outdoor activities, shopping, and delicious food in the area - here's just a few, more coming soon:
 
 **Wedding events**
 * Welcome cocktails (Thursday evening)
 * Ceremoney and lobster bake (Friday afternoon)
 
 **Adventures**
-There are some activities available through the venue - we'll be doing a farm tour at some point, let us know if you want to join/book!
+We're working with the [Maine Oyster Company](https://themaineoystercompany.com/) to offer some special seaside activities at discounted rates - let us know if you want to join!
 * Oyster farm tour ($50/pp, includes half dozen oysters)
 * Shucking class ($35/pp, includes a dozen oysters)
 * Kayak rentals (daily and weekly available)
